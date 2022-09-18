@@ -1,0 +1,16 @@
+{
+  "name": "learning-axios",
+  "version": "1.0.0",
+  "description": "small app with axios",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "\"Oguzhan Ascier",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-fetch": "^3.2.10"
+  }
+}
